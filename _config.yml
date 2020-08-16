@@ -4,6 +4,8 @@
 
 theme: jekyll-theme-midnight
 
+markdown: GFM
+
 # Name of your site (displayed in the header)
 name: Sarat Bhargava
 
