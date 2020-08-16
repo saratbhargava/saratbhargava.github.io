@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Projects
+permalink: /projects/
 ---
 
 # Deep Learning based Action Recognition from EEG Data
